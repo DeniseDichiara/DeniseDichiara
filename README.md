@@ -1,13 +1,21 @@
-### Denise Dichiara
+
+<div align="center">
+<h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Denise;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
+      <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
+<div>
 
 **`In a nutshell`**
 
 
-- 💗 I’m interested in WEB DEVELOPMENT & WEB DESIGN
-- ✨ I’m still learning with PASSION and PATIENCE
-- 📨  How to reach me: dichiara.d@gmail.com
-- 💬 LANGUAGE NERD
-- ☕ Coffee lover
+💗 I’m interested in WEB DEVELOPMENT & WEB DESIGN
+<br>
+✨ I’m still learning with PASSION and PATIENCE
+<br>
+📨  How to reach me: dichiara.d@gmail.com
+<br>
+💬 LANGUAGE NERD (it / es / en)
+<br>
+☕ Coffee lover
 
 ---
 
