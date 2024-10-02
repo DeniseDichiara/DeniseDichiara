@@ -37,7 +37,7 @@
 
 ### 
   <h2 align="center"> :octocat: Github Commits</h2>
-    <p></p>
+    <p>In this section you can see which repositories I’m working on and which language or tool I use most</p>
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 
