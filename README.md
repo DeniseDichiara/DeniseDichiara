@@ -15,9 +15,10 @@
 <br>
 📨  How to reach me: dichiara.d@gmail.com
 <br>
-💬 LANGUAGE NERD (it / es / en)
+💬 LANGUAGE NERD ( it / es / en )
 <br>
-☕ Coffee lover
+💡aspiring CREATIVE developer
+
 
 ---
 
